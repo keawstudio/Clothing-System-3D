@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfPathInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PathInfo>
+    <PathName>Database</PathName>
+    <PathType>DatabasePath</PathType>
+  </PathInfo>
+  <PathInfo>
+    <PathName>Clothes</PathName>
+    <PathType>ClothPath</PathType>
+  </PathInfo>
+  <PathInfo>
+    <PathName>Props</PathName>
+    <PathType>PropPath</PathType>
+  </PathInfo>
+  <PathInfo>
+    <PathName>Skins</PathName>
+    <PathType>SkinsPath</PathType>
+  </PathInfo>
+  <PathInfo>
+    <PathName>BodyModels</PathName>
+    <PathType>BodyModelsPath</PathType>
+  </PathInfo>
+  <PathInfo>
+    <PathName>Clothing System 3D</PathName>
+    <PathType>FolderPrefix</PathType>
+  </PathInfo>
+</ArrayOfPathInfo>

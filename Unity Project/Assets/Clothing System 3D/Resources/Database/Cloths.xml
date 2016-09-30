@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfCloth xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cloth>
+    <ID>2</ID>
+    <Name>Sheriff Shirt</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>3</ID>
+    <Name>Sheriff Boots</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>4</ID>
+    <Name>Mummy</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>5</ID>
+    <Name>Panda</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>6</ID>
+    <Name>Sheriff Pants</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>7</ID>
+    <Name>Jumper Black</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>8</ID>
+    <Name>Jumper Red</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>9</ID>
+    <Name>Pants - Blue</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>10</ID>
+    <Name>Pants - Caqui</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>11</ID>
+    <Name>Robes - Gray</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>12</ID>
+    <Name>Shoes</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>13</ID>
+    <Name>Shorts - Black</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>14</ID>
+    <Name>Shorts - Blue</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>15</ID>
+    <Name>Shorts - Red</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>16</ID>
+    <Name>Sneakers</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>17</ID>
+    <Name>T-Shirt - Cat Ears</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>18</ID>
+    <Name>T-Shirt - Orange</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+  <Cloth>
+    <ID>19</ID>
+    <Name>T-Shirt - Pink</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+  </Cloth>
+</ArrayOfCloth>

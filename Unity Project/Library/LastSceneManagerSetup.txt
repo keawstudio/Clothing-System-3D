@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Clothing System 3D/Scenes/setup.unity
+  isLoaded: 1
+  isActive: 1

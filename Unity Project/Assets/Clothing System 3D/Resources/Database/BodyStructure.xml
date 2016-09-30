@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfBodyStructure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BodyStructure>
+    <ID>1</ID>
+    <Name>Human</Name>
+    <IDBodyType>1</IDBodyType>
+    <ClothingMethod>FullObject</ClothingMethod>
+    <IDBodySubtype>
+      <int>1</int>
+      <int>2</int>
+    </IDBodySubtype>
+  </BodyStructure>
+  <BodyStructure>
+    <ID>2</ID>
+    <Name>Chibi</Name>
+    <IDBodyType>3</IDBodyType>
+    <ClothingMethod>MeshSubstitution</ClothingMethod>
+    <IDBodySubtype>
+      <int>3</int>
+    </IDBodySubtype>
+  </BodyStructure>
+  <BodyStructure>
+    <ID>3</ID>
+    <Name>Horse</Name>
+    <IDBodyType>2</IDBodyType>
+    <ClothingMethod>FullObject</ClothingMethod>
+    <IDBodySubtype>
+      <int>3</int>
+    </IDBodySubtype>
+  </BodyStructure>
+</ArrayOfBodyStructure>

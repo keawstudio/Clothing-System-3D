@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfSkin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Skin>
+    <ID>1</ID>
+    <Name>White</Name>
+    <IDModel>1</IDModel>
+    <DefaultSkin>true</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>2</ID>
+    <Name>White</Name>
+    <IDModel>2</IDModel>
+    <DefaultSkin>true</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>3</ID>
+    <Name>Black</Name>
+    <IDModel>2</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>4</ID>
+    <Name>Black</Name>
+    <IDModel>1</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>5</ID>
+    <Name>White - Zombie</Name>
+    <IDModel>1</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>6</ID>
+    <Name>White - Zombie</Name>
+    <IDModel>2</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>7</ID>
+    <Name>Black - Zombie</Name>
+    <IDModel>1</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>8</ID>
+    <Name>Black - Zombie</Name>
+    <IDModel>2</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>9</ID>
+    <Name>White</Name>
+    <IDModel>4</IDModel>
+    <DefaultSkin>true</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>10</ID>
+    <Name>Black</Name>
+    <IDModel>4</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>11</ID>
+    <Name>Skeleton Light</Name>
+    <IDModel>5</IDModel>
+    <DefaultSkin>true</DefaultSkin>
+  </Skin>
+  <Skin>
+    <ID>12</ID>
+    <Name>Skeleton Dark</Name>
+    <IDModel>5</IDModel>
+    <DefaultSkin>false</DefaultSkin>
+  </Skin>
+</ArrayOfSkin>

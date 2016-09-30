@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfEyeObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EyeObject>
+    <ID>1</ID>
+    <IDEye>1</IDEye>
+    <ObjectName>eye.L</ObjectName>
+  </EyeObject>
+  <EyeObject>
+    <ID>2</ID>
+    <IDEye>1</IDEye>
+    <ObjectName>eye.R</ObjectName>
+  </EyeObject>
+</ArrayOfEyeObject>

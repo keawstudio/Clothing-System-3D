@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfBodyPropsSlots xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BodyPropsSlots>
+    <IDStructure>2</IDStructure>
+    <IDSlot>1</IDSlot>
+    <SlotName>Head</SlotName>
+    <ObjectName>head</ObjectName>
+  </BodyPropsSlots>
+  <BodyPropsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>1</IDSlot>
+    <SlotName>Head</SlotName>
+    <ObjectName>head</ObjectName>
+  </BodyPropsSlots>
+</ArrayOfBodyPropsSlots>

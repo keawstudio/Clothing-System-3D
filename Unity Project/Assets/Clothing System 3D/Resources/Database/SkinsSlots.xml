@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfBodySkinsSlots xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BodySkinsSlots>
+    <IDStructure>3</IDStructure>
+    <IDSlot>1</IDSlot>
+    <SlotName>Body</SlotName>
+    <ObjectName>body</ObjectName>
+  </BodySkinsSlots>
+  <BodySkinsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>1</IDSlot>
+    <SlotName>Head</SlotName>
+    <ObjectName>head</ObjectName>
+  </BodySkinsSlots>
+  <BodySkinsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>2</IDSlot>
+    <SlotName>Torso</SlotName>
+    <ObjectName>upper_body</ObjectName>
+  </BodySkinsSlots>
+  <BodySkinsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>3</IDSlot>
+    <SlotName>Legs</SlotName>
+    <ObjectName>lower_body</ObjectName>
+  </BodySkinsSlots>
+  <BodySkinsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>4</IDSlot>
+    <SlotName>Hands</SlotName>
+    <ObjectName>hands</ObjectName>
+  </BodySkinsSlots>
+  <BodySkinsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>5</IDSlot>
+    <SlotName>Feet</SlotName>
+    <ObjectName>feet</ObjectName>
+  </BodySkinsSlots>
+  <BodySkinsSlots>
+    <IDStructure>1</IDStructure>
+    <IDSlot>6</IDSlot>
+    <SlotName>Ears</SlotName>
+    <ObjectName>ears</ObjectName>
+  </BodySkinsSlots>
+</ArrayOfBodySkinsSlots>

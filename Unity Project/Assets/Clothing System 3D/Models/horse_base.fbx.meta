@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 5542f96c9ec26dd4da5a8a2bea851244
+timeCreated: 1471792721
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomen
+    100002: arm.l
+    100004: arm.r
+    100006: Armature
+    100008: chest
+    100010: dummy
+    100012: foot.l
+    100014: foot.l_end
+    100016: foot.r
+    100018: foot.r_end
+    100020: forearm.l
+    100022: forearm.r
+    100024: hand.l
+    100026: hand.l_end
+    100028: hand.r
+    100030: hand.r_end
+    100032: head
+    100034: head_end
+    100036: hip
+    100038: //RootNode
+    100040: neck.1
+    100042: neck.2
+    100044: pelvis.l
+    100046: pervis.r
+    100048: shin.l
+    100050: shin.r
+    100052: shldr.l
+    100054: shldr.r
+    100056: tail.1
+    100058: tail.10
+    100060: tail.2
+    100062: tail.3
+    100064: tail.4
+    100066: tail.5
+    100068: tail.6
+    100070: tail.7
+    100072: tail.8
+    100074: tail.9
+    100076: tail.end
+    100078: tail.end_end
+    100080: thigh.l
+    100082: thigh.r
+    400000: abdomen
+    400002: arm.l
+    400004: arm.r
+    400006: Armature
+    400008: chest
+    400010: dummy
+    400012: foot.l
+    400014: foot.l_end
+    400016: foot.r
+    400018: foot.r_end
+    400020: forearm.l
+    400022: forearm.r
+    400024: hand.l
+    400026: hand.l_end
+    400028: hand.r
+    400030: hand.r_end
+    400032: head
+    400034: head_end
+    400036: hip
+    400038: //RootNode
+    400040: neck.1
+    400042: neck.2
+    400044: pelvis.l
+    400046: pervis.r
+    400048: shin.l
+    400050: shin.r
+    400052: shldr.l
+    400054: shldr.r
+    400056: tail.1
+    400058: tail.10
+    400060: tail.2
+    400062: tail.3
+    400064: tail.4
+    400066: tail.5
+    400068: tail.6
+    400070: tail.7
+    400072: tail.8
+    400074: tail.9
+    400076: tail.end
+    400078: tail.end_end
+    400080: thigh.l
+    400082: thigh.r
+    4300000: dummy
+    9500000: //RootNode
+    13700000: dummy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: hip
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfBodySubtype xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BodySubtype>
+    <ID>1</ID>
+    <Name>Male</Name>
+  </BodySubtype>
+  <BodySubtype>
+    <ID>2</ID>
+    <Name>Female</Name>
+  </BodySubtype>
+  <BodySubtype>
+    <ID>3</ID>
+    <Name>Genderless</Name>
+  </BodySubtype>
+</ArrayOfBodySubtype>

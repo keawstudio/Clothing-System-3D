@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfProp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Prop>
+    <ID>1</ID>
+    <Name>Sheriff Hat</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+    <IDSlot>1</IDSlot>
+  </Prop>
+  <Prop>
+    <ID>2</ID>
+    <Name>Chibi Hair Red</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+    <IDSlot>1</IDSlot>
+  </Prop>
+  <Prop>
+    <ID>3</ID>
+    <Name>Wintercap Red</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+    <IDSlot>1</IDSlot>
+  </Prop>
+  <Prop>
+    <ID>4</ID>
+    <Name>Chibi Hair Blonde</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+    <IDSlot>1</IDSlot>
+  </Prop>
+  <Prop>
+    <ID>5</ID>
+    <Name>Chibi Hair Brown</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+    <IDSlot>1</IDSlot>
+  </Prop>
+</ArrayOfProp>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfBodyModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BodyModel>
+    <ID>1</ID>
+    <Name>Human - Female</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+    <IDBodySubtype>2</IDBodySubtype>
+    <ModelName>female_body</ModelName>
+    <IDEye>1</IDEye>
+	<ArmatureName>Armature</ArmatureName>
+  </BodyModel>
+  <BodyModel>
+    <ID>2</ID>
+    <Name>Human - Male</Name>
+    <IDBodyStructure>1</IDBodyStructure>
+    <IDBodySubtype>1</IDBodySubtype>
+    <ModelName>male_body</ModelName>
+    <IDEye>1</IDEye>
+	<ArmatureName>Armature</ArmatureName>
+  </BodyModel>
+  <BodyModel>
+    <ID>3</ID>
+    <Name>Chibi</Name>
+    <IDBodyStructure>2</IDBodyStructure>
+    <IDBodySubtype>3</IDBodySubtype>
+    <ModelName>chibi</ModelName>
+    <IDEye>0</IDEye>
+	<ArmatureName>metarig</ArmatureName>
+  </BodyModel>
+  <BodyModel>
+    <ID>4</ID>
+    <Name>Horse Normal</Name>
+    <IDBodyStructure>3</IDBodyStructure>
+    <IDBodySubtype>3</IDBodySubtype>
+    <ModelName>horse</ModelName>
+    <IDEye>0</IDEye>
+	<ArmatureName>Armature</ArmatureName>
+  </BodyModel>
+  <BodyModel>
+    <ID>5</ID>
+    <Name>Horse Skeleton</Name>
+    <IDBodyStructure>3</IDBodyStructure>
+    <IDBodySubtype>3</IDBodySubtype>
+    <ModelName>horse_squeleton</ModelName>
+    <IDEye>0</IDEye>
+	<ArmatureName>Armature</ArmatureName>
+  </BodyModel>
+</ArrayOfBodyModel>

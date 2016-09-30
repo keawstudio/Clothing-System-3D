@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfEye xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Eye>
+    <ID>1</ID>
+    <Name>Human</Name>
+  </Eye>
+</ArrayOfEye>

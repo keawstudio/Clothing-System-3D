@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfEyeSkin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EyeSkin>
+    <IDEye>1</IDEye>
+    <IDSkin>1</IDSkin>
+    <SkinName>Blue</SkinName>
+  </EyeSkin>
+  <EyeSkin>
+    <IDEye>1</IDEye>
+    <IDSkin>2</IDSkin>
+    <SkinName>Green</SkinName>
+  </EyeSkin>
+  <EyeSkin>
+    <IDEye>1</IDEye>
+    <IDSkin>3</IDSkin>
+    <SkinName>Zombie</SkinName>
+  </EyeSkin>
+  <EyeSkin>
+    <IDEye>1</IDEye>
+    <IDSkin>4</IDSkin>
+    <SkinName>Brown</SkinName>
+  </EyeSkin>
+  <EyeSkin>
+    <IDEye>1</IDEye>
+    <IDSkin>5</IDSkin>
+    <SkinName>Blue / Zombie</SkinName>
+  </EyeSkin>
+</ArrayOfEyeSkin>
