@@ -32,3 +32,9 @@ My two neurons needs tons of coffee to produce things like this one. Help me to 
 
 * [Youtube Channel](https://www.youtube.com/c/Keawstudio)
 * [Website](http://www.keawstudio.com)
+
+---
+
+**UPDATE HISTORY**
+
+12.16.2016 - Added the first video tutorial about how to use the system: https://youtu.be/DbQ73m2kEQs
