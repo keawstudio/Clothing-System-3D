@@ -6,7 +6,10 @@ Read the **Documentation** to learn how to use the asset.
 
 **Unity version and language**
 
-The actual version of Unity used in this project is 5.4.1f1, and the language used is C#
+The actual version of Unity used in this project is 5.4.1f1, and the language used is C#.
+
+Note: Only for desktop games. This is a work in progress, wasn't tested in mobile devices yet.
+
 
 **3D Models**
 
