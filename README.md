@@ -1,6 +1,6 @@
 # Clothing System 3D
 
-This is an asset project for Unity 3D that allows customization of a characters appearance.
+This is an asset project for Unity 3D that allows customization of a characters appearance. Work in progress. This project need to be used as a base for your own asset, not as a full functionally asset. No version for mobiles.
 
 Read the **Documentation** to learn how to use the asset.
 
@@ -8,7 +8,7 @@ Read the **Documentation** to learn how to use the asset.
 
 The actual version of Unity used in this project is 5.4.1f1, and the language used is C#.
 
-Note: Only for desktop games. This is a work in progress, wasn't tested in mobile devices yet.
+# Note: Only for desktop games. This is a work in progress, wasn't tested in mobile devices yet.
 
 
 **3D Models**
