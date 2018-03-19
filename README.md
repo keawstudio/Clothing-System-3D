@@ -12,6 +12,8 @@ The actual version of Unity used in this project is 5.4.1f1, and the language us
 
 **Note: Only for desktop (Windows) games. This is a work in progress, wasn't tested in mobile devices yet.
 
+**For the simple version, follow this article on Medium: https://medium.com/@larissaredeker/3d-character-customization-fd95a1d57ae**
+
 
 **3D Models**
 
@@ -42,6 +44,8 @@ My two neurons needs tons of coffee to produce things like this one. Help me to 
 
 **UPDATE HISTORY**
 
-12.27.2016 - Second tutorial, showing how to setup the system database, is ready: https://www.youtube.com/watch?v=lxNTYjzXKcI&t
+2017.03.19 - Added link to the original, simplified version
 
-12.16.2016 - Added the first video tutorial about how to use the system: https://youtu.be/DbQ73m2kEQs
+2016.12.27 - Second tutorial, showing how to setup the system database, is ready: https://www.youtube.com/watch?v=lxNTYjzXKcI&t
+
+2016.12.16 - Added the first video tutorial about how to use the system: https://youtu.be/DbQ73m2kEQs
